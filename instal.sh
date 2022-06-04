@@ -1,6 +1,6 @@
 
 clear
-read -p " Does you want to install Elite-Evil Shell in Termux?(Yes/No) : " input
+read -p " Does you want to install aryan-mega-trn Shell in Termux?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
