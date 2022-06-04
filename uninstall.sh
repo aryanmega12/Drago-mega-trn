@@ -1,5 +1,5 @@
 clear
-read -p " Does you want to Uninstall Elite-Evil Shell?(Yes/No) : " input
+read -p " Does you want to Uninstall aryan-mega-trn Shell?(Yes/No) : " input
 
 if [[ $input == Yes || $input == yes || $input == y || $input == Y ]]; then
     clear
